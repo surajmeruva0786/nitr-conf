@@ -1,0 +1,211 @@
+Subject,Window,Model,Prediction,MI_Probability
+ashish,0,SVM (RBF),Normal,0.11015181815843943
+ashish,1,SVM (RBF),Normal,0.11015181815843943
+ashish,2,SVM (RBF),Normal,0.11015181815843943
+ashish,3,SVM (RBF),Normal,0.11015181815843943
+ashish,4,SVM (RBF),Normal,0.11015181815843943
+ashish,0,KNN,Normal,0.0
+ashish,1,KNN,Normal,0.0
+ashish,2,KNN,Normal,0.0
+ashish,3,KNN,Normal,0.0
+ashish,4,KNN,Normal,0.0
+ashish,0,Random Forest,MI,0.615
+ashish,1,Random Forest,MI,0.57
+ashish,2,Random Forest,MI,0.515
+ashish,3,Random Forest,Normal,0.5
+ashish,4,Random Forest,MI,0.605
+ashish,0,XGBoost,Normal,0.13230575621128082
+ashish,1,XGBoost,Normal,0.029640283435583115
+ashish,2,XGBoost,Normal,0.015508852899074554
+ashish,3,XGBoost,Normal,0.015508852899074554
+ashish,4,XGBoost,Normal,0.04927561804652214
+ashish,0,Logistic Reg,Normal,0.0
+ashish,1,Logistic Reg,Normal,0.0
+ashish,2,Logistic Reg,Normal,4.424610772220192e-279
+ashish,3,Logistic Reg,Normal,0.0
+ashish,4,Logistic Reg,Normal,0.0
+ashish,0,QSVM,Normal,0.03805860013673872
+ashish,1,QSVM,Normal,0.008107032261415252
+ashish,2,QSVM,Normal,0.0006221498244511989
+ashish,3,QSVM,Normal,0.025509297076622795
+ashish,4,QSVM,Normal,0.0035469166773169076
+bala,0,SVM (RBF),Normal,0.11015181815843943
+bala,1,SVM (RBF),Normal,0.11015181815843943
+bala,2,SVM (RBF),Normal,0.11015181815843943
+bala,3,SVM (RBF),Normal,0.11015181815843943
+bala,4,SVM (RBF),Normal,0.11015181815843943
+bala,0,KNN,Normal,0.0
+bala,1,KNN,Normal,0.0
+bala,2,KNN,Normal,0.0
+bala,3,KNN,Normal,0.0
+bala,4,KNN,Normal,0.0
+bala,0,Random Forest,MI,0.555
+bala,1,Random Forest,Normal,0.5
+bala,2,Random Forest,MI,0.525
+bala,3,Random Forest,MI,0.555
+bala,4,Random Forest,Normal,0.48
+bala,0,XGBoost,Normal,0.019845938310027122
+bala,1,XGBoost,Normal,0.003988264128565788
+bala,2,XGBoost,Normal,0.004715253133326769
+bala,3,XGBoost,Normal,0.021830521523952484
+bala,4,XGBoost,Normal,0.008203278295695782
+bala,0,Logistic Reg,Normal,0.0
+bala,1,Logistic Reg,Normal,0.0
+bala,2,Logistic Reg,Normal,2.7624495096377634e-180
+bala,3,Logistic Reg,Normal,1.1843362553647507e-08
+bala,4,Logistic Reg,MI,0.9999997839048264
+bala,0,QSVM,Normal,0.002078482392389262
+bala,1,QSVM,Normal,0.00013179107135761692
+bala,2,QSVM,Normal,0.0019194519360131014
+bala,3,QSVM,Normal,0.00028368395244541064
+bala,4,QSVM,Normal,0.0320637203336114
+dileep,0,SVM (RBF),Normal,0.11015181815843943
+dileep,1,SVM (RBF),Normal,0.11015181815843943
+dileep,2,SVM (RBF),Normal,0.11015181815843943
+dileep,3,SVM (RBF),Normal,0.11015181815843943
+dileep,4,SVM (RBF),Normal,0.11015181815843943
+dileep,0,KNN,Normal,0.0
+dileep,1,KNN,Normal,0.0
+dileep,2,KNN,Normal,0.0
+dileep,3,KNN,Normal,0.0
+dileep,4,KNN,Normal,0.0
+dileep,0,Random Forest,MI,0.555
+dileep,1,Random Forest,Normal,0.47
+dileep,2,Random Forest,Normal,0.49
+dileep,3,Random Forest,Normal,0.465
+dileep,4,Random Forest,Normal,0.4
+dileep,0,XGBoost,Normal,0.08030583709478378
+dileep,1,XGBoost,Normal,0.008751817978918552
+dileep,2,XGBoost,Normal,0.0012160519836470485
+dileep,3,XGBoost,Normal,0.0012856507673859596
+dileep,4,XGBoost,Normal,0.004791245795786381
+dileep,0,Logistic Reg,Normal,0.0
+dileep,1,Logistic Reg,Normal,3.537029194878822e-226
+dileep,2,Logistic Reg,Normal,2.282688508143272e-260
+dileep,3,Logistic Reg,Normal,0.0
+dileep,4,Logistic Reg,Normal,0.0
+dileep,0,QSVM,Normal,0.35381237109374386
+dileep,1,QSVM,Normal,0.0023137360627771882
+dileep,2,QSVM,Normal,0.08636341093240466
+dileep,3,QSVM,Normal,0.023740501076006355
+dileep,4,QSVM,Normal,0.003565855576488727
+madhav,0,SVM (RBF),Normal,0.11015181815843943
+madhav,1,SVM (RBF),Normal,0.11015181815843943
+madhav,2,SVM (RBF),Normal,0.11015181815843943
+madhav,3,SVM (RBF),Normal,0.11015181815843943
+madhav,4,SVM (RBF),Normal,0.11015181815843943
+madhav,0,KNN,Normal,0.0
+madhav,1,KNN,Normal,0.0
+madhav,2,KNN,Normal,0.0
+madhav,3,KNN,Normal,0.0
+madhav,4,KNN,Normal,0.0
+madhav,0,Random Forest,MI,0.515
+madhav,1,Random Forest,MI,0.515
+madhav,2,Random Forest,MI,0.515
+madhav,3,Random Forest,MI,0.57
+madhav,4,Random Forest,Normal,0.5
+madhav,0,XGBoost,Normal,0.015338808298110962
+madhav,1,XGBoost,Normal,0.019043762236833572
+madhav,2,XGBoost,Normal,0.047649309039115906
+madhav,3,XGBoost,Normal,0.041500456631183624
+madhav,4,XGBoost,Normal,0.016413051635026932
+madhav,0,Logistic Reg,Normal,0.0
+madhav,1,Logistic Reg,Normal,0.0
+madhav,2,Logistic Reg,Normal,1.39879897165433e-196
+madhav,3,Logistic Reg,Normal,1.0918554906231786e-150
+madhav,4,Logistic Reg,Normal,0.0
+madhav,0,QSVM,Normal,0.47301225811174497
+madhav,1,QSVM,Normal,0.0003444164762035813
+madhav,2,QSVM,Normal,0.008628432664018262
+madhav,3,QSVM,Normal,0.004668471365654768
+madhav,4,QSVM,Normal,0.0007734238407520014
+manish,0,SVM (RBF),Normal,0.11015181815843943
+manish,1,SVM (RBF),Normal,0.11015181815843943
+manish,2,SVM (RBF),Normal,0.11015181815843943
+manish,3,SVM (RBF),Normal,0.11015181815843943
+manish,4,SVM (RBF),Normal,0.11015181815843943
+manish,0,KNN,Normal,0.0
+manish,1,KNN,Normal,0.0
+manish,2,KNN,Normal,0.0
+manish,3,KNN,Normal,0.0
+manish,4,KNN,Normal,0.0
+manish,0,Random Forest,MI,0.595
+manish,1,Random Forest,Normal,0.495
+manish,2,Random Forest,Normal,0.49
+manish,3,Random Forest,MI,0.605
+manish,4,Random Forest,MI,0.555
+manish,0,XGBoost,Normal,0.04420752078294754
+manish,1,XGBoost,Normal,0.023526260629296303
+manish,2,XGBoost,Normal,0.027789108455181122
+manish,3,XGBoost,Normal,0.1206478700041771
+manish,4,XGBoost,Normal,0.06562788784503937
+manish,0,Logistic Reg,Normal,9.121688820722149e-162
+manish,1,Logistic Reg,Normal,1.5830946590572117e-236
+manish,2,Logistic Reg,Normal,9.283305499740046e-14
+manish,3,Logistic Reg,Normal,1.2702505773377141e-111
+manish,4,Logistic Reg,Normal,2.7667350250436614e-41
+manish,0,QSVM,Normal,0.09972220698309373
+manish,1,QSVM,Normal,0.009746971870868138
+manish,2,QSVM,Normal,0.005894530230412238
+manish,3,QSVM,Normal,5.782459615948777e-05
+manish,4,QSVM,Normal,0.04109937118340539
+rohith,0,SVM (RBF),Normal,0.11015181815843943
+rohith,1,SVM (RBF),Normal,0.11015181815843943
+rohith,2,SVM (RBF),Normal,0.11015181815843943
+rohith,3,SVM (RBF),Normal,0.11015181815843943
+rohith,4,SVM (RBF),Normal,0.11015181815843943
+rohith,0,KNN,Normal,0.0
+rohith,1,KNN,Normal,0.0
+rohith,2,KNN,Normal,0.0
+rohith,3,KNN,Normal,0.0
+rohith,4,KNN,Normal,0.0
+rohith,0,Random Forest,Normal,0.425
+rohith,1,Random Forest,Normal,0.45
+rohith,2,Random Forest,Normal,0.45
+rohith,3,Random Forest,Normal,0.44
+rohith,4,Random Forest,MI,0.56
+rohith,0,XGBoost,Normal,0.002437819028273225
+rohith,1,XGBoost,Normal,0.0006208890117704868
+rohith,2,XGBoost,Normal,0.0133702103048563
+rohith,3,XGBoost,Normal,0.004270397126674652
+rohith,4,XGBoost,Normal,0.019330721348524094
+rohith,0,Logistic Reg,Normal,0.0
+rohith,1,Logistic Reg,Normal,1.2524525686400964e-212
+rohith,2,Logistic Reg,Normal,0.0
+rohith,3,Logistic Reg,Normal,0.0
+rohith,4,Logistic Reg,Normal,6.754294865898492e-118
+rohith,0,QSVM,Normal,0.004991278937309732
+rohith,1,QSVM,Normal,0.006992584889897048
+rohith,2,QSVM,Normal,0.0007201953761365093
+rohith,3,QSVM,Normal,0.1595980232914906
+rohith,4,QSVM,Normal,0.00025378121360429475
+suraj,0,SVM (RBF),Normal,0.11015181815843943
+suraj,1,SVM (RBF),Normal,0.11015181815843943
+suraj,2,SVM (RBF),Normal,0.11015181815843943
+suraj,3,SVM (RBF),Normal,0.11015181815843943
+suraj,4,SVM (RBF),Normal,0.11015181815843943
+suraj,0,KNN,Normal,0.0
+suraj,1,KNN,Normal,0.0
+suraj,2,KNN,Normal,0.0
+suraj,3,KNN,Normal,0.0
+suraj,4,KNN,Normal,0.0
+suraj,0,Random Forest,Normal,0.475
+suraj,1,Random Forest,Normal,0.425
+suraj,2,Random Forest,Normal,0.41
+suraj,3,Random Forest,MI,0.56
+suraj,4,Random Forest,MI,0.53
+suraj,0,XGBoost,Normal,0.10905016213655472
+suraj,1,XGBoost,Normal,0.001978060230612755
+suraj,2,XGBoost,Normal,0.024624468758702278
+suraj,3,XGBoost,Normal,0.1106170043349266
+suraj,4,XGBoost,Normal,0.004428646992892027
+suraj,0,Logistic Reg,Normal,0.0
+suraj,1,Logistic Reg,Normal,1.1978903281738307e-228
+suraj,2,Logistic Reg,Normal,2.9249894091798614e-134
+suraj,3,Logistic Reg,Normal,2.774273788212017e-32
+suraj,4,Logistic Reg,Normal,0.0
+suraj,0,QSVM,Normal,0.011365629941580177
+suraj,1,QSVM,Normal,0.005538162596014221
+suraj,2,QSVM,Normal,5.833642939537564e-05
+suraj,3,QSVM,Normal,0.007486289250264747
+suraj,4,QSVM,Normal,0.006134887775019939
